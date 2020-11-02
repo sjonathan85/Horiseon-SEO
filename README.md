@@ -14,7 +14,7 @@ The purpose of my me refactoring this starter code is make sure the website adhe
 ![VS Code - CSS](./assets/README/Capture2.PNG "VS Code - CSS")
 
 
-![Working Live Page](./assets/README/Capture2.PNG "Working Live Page")
+![Working Live Page](./assets/README/Capture3.PNG "Working Live Page")
 
 
 ### Problem
