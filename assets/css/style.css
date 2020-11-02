@@ -24,7 +24,7 @@ header h1 {
 
 /*formatting for header ends*/
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /*formatting for navigation starts*/
@@ -76,7 +76,7 @@ p {
     margin-left: 25px;
 }
 
-
+/*formatting for the benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,6 +108,8 @@ p {
     max-width: 150px;
 }
 
+/*formatting for the products offered section starts*/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -123,18 +125,18 @@ p {
     color: #ffffff;
 }
 
-
-
 .product img {
     max-height: 200px;
 }
-
-
 
 .product h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*formatting for the products offered section ends*/
+
+/*formatting for footer starts*/
 
 .footer {
     padding: 30px;
@@ -146,3 +148,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/*formatting for footer ends*/
